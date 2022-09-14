@@ -23,6 +23,7 @@
       <string v="oracle.jdeveloper.model.PathsConfiguration/ResourceBundlesContentSet"/>
    </list>
    <list n="listOfChildren">
+      <hash><url n="URL" path="bpmsetglobal/bpmsetglobal.jpr"/></hash>
       <hash><url n="URL" path="git.jpr"/></hash>
    </list>
 </jws:workspace>

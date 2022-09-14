@@ -76,6 +76,14 @@
       <string v="oracle.jdeveloper.model.PathsConfiguration/cepContentSet"/>
    </list>
    <value n="defaultPackage" v="git"/>
+   <hash n="oracle.ide.model.TechnologyScopeConfiguration">
+      <list n="technologyScope">
+         <string v="WSDL"/>
+         <string v="WSPolicy"/>
+         <string v="XML"/>
+         <string v="XML_SCHEMA"/>
+      </list>
+   </hash>
    <hash n="oracle.jdeveloper.compiler.OjcConfiguration">
       <value n="webIANAEncoding" v="windows-1252"/>
    </hash>
