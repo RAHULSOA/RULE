@@ -10,7 +10,7 @@
 			</sequence>
 		</complexType>
 	</element>
-	<element name="processResponse"> 
+	<element name="processResponse">  
 		<complexType>
 			<sequence>
 				<element name="result" type="string"/>
